@@ -37,11 +37,11 @@
     "public": true
   },
   "Review": {
-    "dataSource": "mongoDs",
+    "dataSource": "mysqlDs",
     "public": true
   },
   "Reviewer": {
-    "dataSource": "mongoDs",
+    "dataSource": "mysqlDs",
     "public": true
   }
 }
